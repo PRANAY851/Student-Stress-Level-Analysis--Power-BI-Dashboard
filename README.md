@@ -79,3 +79,12 @@ visuals : 	PNG images of key charts and visuals
 Power BI & PowerQuery
 
 Snipping Tool (for exporting dashboard images)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Author
+G PRANAY KUMAR REDDY
+
+📍 Hyderabad, India
+
+📫 pranaygalva@gmail.com
